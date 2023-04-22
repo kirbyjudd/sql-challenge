@@ -16,4 +16,11 @@ There were 6 total tables created:
 - dept_manager
 
 The ERD image file is located in the Entity Relationship Diagram folder and is called "ERD Image file.png"
-https://github.com/kirbyjudd/sql-challenge/blob/main/EmployeeSQL/Entity%20Relationship%20Diagram/ERD%20Image%20file.png?raw=true
+
+![ERD](https://github.com/kirbyjudd/sql-challenge/blob/main/EmployeeSQL/Entity%20Relationship%20Diagram/ERD%20Image%20file.png?raw=true)
+
+I also included the Diagram Documentation and QuickDBD text file in the Entity Relationship Diagram folder.
+
+## Data Engineering
+
+## Data Analysis
