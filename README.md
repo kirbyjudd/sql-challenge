@@ -29,7 +29,7 @@ The tables had to be created in the correct order so that the foreign keys could
 The table schema is located in the "SQL Files" folder and then in the "Table schemata" folder. I included two table schematas. the "My table schemata.sql" which is the table schema I created manually and the "QuickDBD table schemata export.sql" which is the table schema I exported form the QuickDBD ERD. I tested both schema and they succesfully created the tables in SQL. 
 
 ## Data Analysis
-For the data anlaysis portion, I had to do 8 different queries that included:
+For the data anlaysis portion, I performed 8 different queries that included:
 
 - List the employee number, last name, first name, sex, and salary of each employee.
 - List the first name, last name, and hire date for the employees who were hired in 1986.
