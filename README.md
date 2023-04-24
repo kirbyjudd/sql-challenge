@@ -43,3 +43,6 @@ For the data anlaysis portion, I performed 8 different queries that included:
 - List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
 The queries were succesfully completed and are located in the "SQL files" folder and the sql file is titled "Queries.sql".
+
+### Peer Cooperation
+I worked together on this assignment with my classmate Riddhi Sodagar.
