@@ -26,7 +26,9 @@ The table schema was created for each of the six CSV files, specifying the data 
 
 The tables had to be created in the correct order so that the foreign keys could be referenced. Also it had to be imported in the same correct order when importing the CSV files into the SQL tables.
 
-The table schema is located in the "SQL Files" folder and then in the "Table schemata" folder. I included two table schematas. the "My table schemata.sql" which is the table schema I created manually and the "QuickDBD table schemata export.sql" which is the table schema I exported form the QuickDBD ERD. I tested both schema and they succesfully created the tables in SQL. 
+The table schema is located in the "SQL Files" folder and then in the "Table schemata" folder. 
+
+I included two table schematas. the "My table schemata.sql" which is the table schema I created manually and the "QuickDBD table schemata export.sql" which is the table schema I exported form the QuickDBD ERD. I tested both schema and they succesfully created the tables in SQL. 
 
 ## Data Analysis
 For the data anlaysis portion, I performed 8 different queries that included:
